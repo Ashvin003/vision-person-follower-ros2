@@ -1,4 +1,0 @@
-[console_scripts]
-person_detector = vision_person_detector.person_detector:main
-simple_follower = vision_person_detector.follower_node:main
-

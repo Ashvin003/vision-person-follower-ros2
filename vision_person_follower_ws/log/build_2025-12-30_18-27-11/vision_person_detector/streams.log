@@ -1,0 +1,26 @@
+[0.623s] Invoking command in '/home/ashvin/vision_person_follower_ws/src/vision_person_detector': PYTHONPATH=/home/ashvin/vision_person_follower_ws/build/vision_person_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision_person_detector build --build-base /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build install --record /home/ashvin/vision_person_follower_ws/build/vision_person_detector/install.log --single-version-externally-managed install_data
+[0.786s] running egg_info
+[0.786s] writing ../../build/vision_person_detector/vision_person_detector.egg-info/PKG-INFO
+[0.787s] writing dependency_links to ../../build/vision_person_detector/vision_person_detector.egg-info/dependency_links.txt
+[0.787s] writing entry points to ../../build/vision_person_detector/vision_person_detector.egg-info/entry_points.txt
+[0.787s] writing requirements to ../../build/vision_person_detector/vision_person_detector.egg-info/requires.txt
+[0.787s] writing top-level names to ../../build/vision_person_detector/vision_person_detector.egg-info/top_level.txt
+[0.789s] reading manifest file '../../build/vision_person_detector/vision_person_detector.egg-info/SOURCES.txt'
+[0.790s] writing manifest file '../../build/vision_person_detector/vision_person_detector.egg-info/SOURCES.txt'
+[0.790s] running build
+[0.790s] running build_py
+[0.791s] copying vision_person_detector/follower_node.py -> /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib/vision_person_detector
+[0.791s] running install
+[0.791s] running install_lib
+[0.792s] copying /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib/vision_person_detector/follower_node.py -> /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector
+[0.792s] byte-compiling /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector/follower_node.py to follower_node.cpython-310.pyc
+[0.792s] Sorry: IndentationError: unindent does not match any outer indentation level (follower_node.py, line 38)
+[0.792s] running install_data
+[0.792s] running install_egg_info
+[0.794s] removing '/home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector-0.0.0-py3.10.egg-info' (and everything under it)
+[0.794s] Copying ../../build/vision_person_detector/vision_person_detector.egg-info to /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector-0.0.0-py3.10.egg-info
+[0.794s] running install_scripts
+[0.808s] Installing person_detector script to /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/vision_person_detector
+[0.809s] Installing simple_follower script to /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/vision_person_detector
+[0.809s] writing list of installed files to '/home/ashvin/vision_person_follower_ws/build/vision_person_detector/install.log'
+[0.824s] Invoked command in '/home/ashvin/vision_person_follower_ws/src/vision_person_detector' returned '0': PYTHONPATH=/home/ashvin/vision_person_follower_ws/build/vision_person_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision_person_detector build --build-base /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build install --record /home/ashvin/vision_person_follower_ws/build/vision_person_detector/install.log --single-version-externally-managed install_data

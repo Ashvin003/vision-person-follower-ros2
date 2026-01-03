@@ -1,0 +1,42 @@
+running egg_info
+creating ../../build/vision_person_detector/vision_person_detector.egg-info
+writing ../../build/vision_person_detector/vision_person_detector.egg-info/PKG-INFO
+writing dependency_links to ../../build/vision_person_detector/vision_person_detector.egg-info/dependency_links.txt
+writing entry points to ../../build/vision_person_detector/vision_person_detector.egg-info/entry_points.txt
+writing requirements to ../../build/vision_person_detector/vision_person_detector.egg-info/requires.txt
+writing top-level names to ../../build/vision_person_detector/vision_person_detector.egg-info/top_level.txt
+writing manifest file '../../build/vision_person_detector/vision_person_detector.egg-info/SOURCES.txt'
+reading manifest file '../../build/vision_person_detector/vision_person_detector.egg-info/SOURCES.txt'
+writing manifest file '../../build/vision_person_detector/vision_person_detector.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build
+creating /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib
+creating /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib/vision_person_detector
+copying vision_person_detector/simple_follower.py -> /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib/vision_person_detector
+copying vision_person_detector/__init__.py -> /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib/vision_person_detector
+copying vision_person_detector/follower_node.py -> /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib/vision_person_detector
+copying vision_person_detector/person_detector.py -> /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib/vision_person_detector
+running install
+running install_lib
+creating /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector
+copying /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib/vision_person_detector/simple_follower.py -> /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector
+copying /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib/vision_person_detector/__init__.py -> /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector
+copying /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib/vision_person_detector/follower_node.py -> /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector
+copying /home/ashvin/vision_person_follower_ws/build/vision_person_detector/build/lib/vision_person_detector/person_detector.py -> /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector
+byte-compiling /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector/simple_follower.py to simple_follower.cpython-310.pyc
+byte-compiling /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector/follower_node.py to follower_node.cpython-310.pyc
+byte-compiling /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector/person_detector.py to person_detector.cpython-310.pyc
+running install_data
+creating /home/ashvin/vision_person_follower_ws/install/vision_person_detector/share/ament_index
+creating /home/ashvin/vision_person_follower_ws/install/vision_person_detector/share/ament_index/resource_index
+creating /home/ashvin/vision_person_follower_ws/install/vision_person_detector/share/ament_index/resource_index/packages
+copying resource/vision_person_detector -> /home/ashvin/vision_person_follower_ws/install/vision_person_detector/share/ament_index/resource_index/packages
+copying package.xml -> /home/ashvin/vision_person_follower_ws/install/vision_person_detector/share/vision_person_detector
+running install_egg_info
+Copying ../../build/vision_person_detector/vision_person_detector.egg-info to /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/python3.10/site-packages/vision_person_detector-0.0.0-py3.10.egg-info
+running install_scripts
+Installing person_detector script to /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/vision_person_detector
+Installing simple_follower script to /home/ashvin/vision_person_follower_ws/install/vision_person_detector/lib/vision_person_detector
+writing list of installed files to '/home/ashvin/vision_person_follower_ws/build/vision_person_detector/install.log'
